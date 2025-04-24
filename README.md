@@ -23,14 +23,14 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <p align="center">
 <b>Step 1: Fork the Repo</b><br>
-<a href="https://github.com/Devspacetechnologies/Destiny-md">
+<a href="https://github.com/https://github.com/DevReagan-326/REAGAN-X-MD">
   <img src="https://img.shields.io/badge/Fork%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
 <b>Step 2: Get Your Session ID</b><br>
-<a href="https://nexus-xmd-piar.onrender.com">
+<a href="https://reagan-xmd-piar.onrender.com">
   <img src="https://img.shields.io/badge/Get%20Session%20ID-00C8A9?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 </p>
@@ -41,7 +41,7 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <p align="center">
 <b>HEROKU</b><br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Devspacetechnologies/Destiny-md/turn-meh">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/https://github.com/DevReagan-326/REAGAN-X-MD/turn-meh">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 </p>
@@ -49,14 +49,14 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <p align="center">
 <b>REPLIT</b><br>
-<a href="https://replit.com/github/Devspacetechnologies/Destiny-md">
+<a href="https://replit.com/github/https://github.com/DevReagan-326/REAGAN-X-MD">
   <img src="https://img.shields.io/badge/Deploy%20To%20Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
 <b>RAILWAY</b><br>
-<a href="https://railway.app/new/template?template=https://github.com/Devspacetechnologies/Destiny-md">
+<a href="https://railway.app/new/template?template=https://github.com/https://github.com/DevReagan-326/REAGAN-X-MD">
   <img src="https://img.shields.io/badge/Deploy%20To%20Railway-4B2B36?style=for-the-badge&logo=railway&logoColor=white" />
 </a>
 </p>
@@ -134,11 +134,11 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 <h3 align="center"> 𝑪𝑹𝑬𝑫𝑰𝑻𝑺 𝑻𝑶:
 </h3>
 
-<h3 align="center"> 1.𝗣𝗞 𝗗𝗥𝗜𝗟𝗟𝗘𝗥 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗕𝗔𝗦𝗘
+<h3 align="center"> 1.𝗣𝗞 𝗗𝗥𝗜𝗟𝗟𝗘𝗥 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
 </h3>
 
 
-<h3 align="center"> 2.𝗠𝗔𝗥𝗞 𝗧𝗘𝗖𝗛 𝗙𝗢𝗥 𝗠𝗢𝗗𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡 
+<h3 align="center"> 2.𝗥𝗘𝗔𝗚𝗔𝗡 𝗧𝗘𝗖𝗛 𝗙𝗢𝗥 𝗠𝗢𝗗𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡 
 </h3>
 
 <h3 align="center"> 3.𝗞𝗘𝗜𝗧𝗛 𝗞𝗘𝗜𝗭𝗔𝗛 𝗙𝗢𝗥 𝗔𝗣𝗜𝗦 
@@ -150,6 +150,6 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
  <p align="lift">
  <a 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙼𝙰𝚁𝙺+.+𝚃𝙴𝙲𝙷)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚁𝙴𝙰𝙶𝙰𝙽+.+𝚃𝙴𝙲𝙷)](https://git.io/typing-svg)
  <p align="lift">
  <a 
