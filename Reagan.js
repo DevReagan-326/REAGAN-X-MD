@@ -25,14 +25,14 @@ cmd({
     if (!_0x4d3a95) {
       return _0x5b120e("*Please provide a video title or keywords to search for.*");
     }
-    _0x5b120e("*_🎬 DESTINY MD VIDEO FOUND UPLOADING PLZ WAIT_*");
+    _0x5b120e("*_🎬 REAGAN X-MD VIDEO FOUND UPLOADING PLZ WAIT_*");
     const _0x2110e1 = await yts(_0x4d3a95);
     if (!_0x2110e1.videos || _0x2110e1.videos.length === 0x0) {
       return _0x5b120e("❌ No results found for \"" + _0x4d3a95 + "\".");
     }
     const _0x4ed4c1 = _0x2110e1.videos[0x0];
     const _0x2ef690 = _0x4ed4c1.url;
-    const _0x23109c = "https://api.davidcyriltech.my.id/download/ytmp4?url=" + _0x2ef690;
+    const _0x23109c = "https://api.reagansmithtech.my.id/download/ytmp4?url=" + _0x2ef690;
     const _0x567fa0 = await axios.get(_0x23109c);
     if (!_0x567fa0.data.success) {
       return _0x5b120e("❌ Failed to fetch video for \"" + _0x4d3a95 + "\".");
