@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://files.catbox.moe/qiwymc.jpg" alt="Bot Image" width="300"/>
+  <img src="https://files.catbox.moe/7skj1r.jpeg" alt="Bot Image" width="300"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@ PURCHASE BOT DIRECT FROM DEVELOPER CLICK HERE
 
 <p align="center">
 <b>Step 2: Get Your Session ID</b><br>
-<a href="https://reagan-xmd-piar.onrender.com">
+<a href="https://reagan-pairing-site.onrender.com">
   <img src="https://img.shields.io/badge/Get%20Session%20ID-00C8A9?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 </p>
